@@ -20,3 +20,6 @@ for name in os.listdir(KNOWN_FACES_DIR):
         encoding = face_recognition.face_encodings(image)
         known_faces.append(encoding)
         known_names.append(name)
+
+
+#TEST COMMIT

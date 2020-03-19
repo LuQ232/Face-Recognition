@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92f5860-9068-43c0-a771-04e5053b5022" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/F_R main.py" beforeDir="false" afterPath="$PROJECT_DIR$/F_R main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/known_faces/86501354_505085373750077_6370734387545243648_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/known_faces/86793520_1045839985795242_2786526338708668416_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/known_faces/89120791_510885166246438_7823610335020974080_n (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/known_faces/89265133_209869200118745_2845557631945277440_n (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/known_faces/89808023_567222070669131_3691890124557123584_n (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/known_faces/Piotr Bednarek/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/unknown_faces/85027760_824286638060502_7784587340206309376_n.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,22 +123,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584131090366" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1584655165038">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1584656366428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584655165038" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1584655165038">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584656366428" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1584656366428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584655165038" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1584655165038">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584656366428" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1584656366428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584655165038" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1584655165038">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584656366428" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1584656366428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584655165038" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584656366428" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584652335805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
